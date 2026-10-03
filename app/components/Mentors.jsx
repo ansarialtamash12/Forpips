@@ -79,7 +79,7 @@ const MENTORS = [
     name: "Mr. Lovel Rajput ",
     role: "Forex & Stock Market Expert | NISM Research Analyst | Trading Mentor | Financial Markets Educator",
     body: "Lovel Rajput began his trading journey in 2016 and brings over a decade of experience in the financial markets, including expertise in Forex, Crypto, stock markets, and options trading. As a NISM-certified Research Analyst and experienced trading mentor, he has trained over 22K students, focusing on making trading simple, practical, and easy to understand. Through his academy and trading community, Lovel shares real-market knowledge, develops disciplined traders, and helps learners build confidence through effective strategies, market analysis, and practical education.",
-    image: "/profile/Lovel.png",
+    image: "/profile/lovel.png",
     imagePosition: "center top",
   imageScale: 1.4,
   },
